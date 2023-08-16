@@ -1,5 +1,5 @@
 
-Live :- https://shivamjha2110.github.io/Food-Recipes_APP/
+You can see the website live at:- https://shivamjha2110.github.io/Food-Recipes_APP/
 
 
 =======
