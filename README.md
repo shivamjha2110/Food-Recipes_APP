@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+
+Live :- https://shivamjha2110.github.io/Food-Recipes_APP/
+
 # Food-Recipes_APP
 =======
 # Food-Recipes_APP
