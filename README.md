@@ -1,11 +1,11 @@
 
 Live :- https://shivamjha2110.github.io/Food-Recipes_APP/
 
-# Food-Recipes_APP
+
 =======
 # Food-Recipes_APP
 
-FOOD-RECIPES-APP (Made using HTML5, CSS3, API, Local Storage and JavaScript)
+FOOD-RECIPES-APP (Made using HTML5, CSS3,JavaScript)
 
 
 ## About this Project
