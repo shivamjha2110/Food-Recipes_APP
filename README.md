@@ -31,4 +31,4 @@ FOOD-RECIPES-APP (Made using HTML5, CSS3, API, Local Storage and JavaScript)
        - Each recipes card in favourites list has remove button, clicking on which should remove that meal from the list.
        - The Favourite List is persistent (having the same number of meals before and after closing the browser/refreshing the browser)
        
->>>>>>> ed693e2 (first commit)
+>>>>>>> 
